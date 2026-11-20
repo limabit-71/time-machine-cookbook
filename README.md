@@ -2,7 +2,7 @@
 
 A small website of recipes, built by our class with git.
 
-Team: ______________________
+Team: CHRIS LIAM
 
 ## Open the website
 
